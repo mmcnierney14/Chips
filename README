@@ -1,0 +1,12 @@
+Chips.java
+Referee.java
+Player.java
+
+By Matthew McNierney
+------------------------------------------------------------------------------------------------
+
+Java application for the game Chips. Two players alternate taking chips from a pile. When all
+of the chips have been taken, one of the players is declared the winner according to the rules
+that the players set at the beginning of the game.
+
+Demonstrates object-oriented programming in Java.
